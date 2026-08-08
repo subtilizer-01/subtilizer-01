@@ -80,8 +80,6 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=subtilizer-01&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
 </div>
 
 <div align="center">
