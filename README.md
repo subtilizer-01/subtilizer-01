@@ -32,12 +32,15 @@
 
 <div align="center">
 
-<a href="https://github.com/subtilizer-01/audit-chain">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subtilizer-01&repo=audit-chain&bg_color=0B0E11&title_color=00E5FF&text_color=8AA5B5&icon_color=00FF9C&border_color=16242E" />
-</a>
-<a href="https://github.com/subtilizer-01/daily-mystery">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subtilizer-01&repo=daily-mystery&bg_color=0B0E11&title_color=00E5FF&text_color=8AA5B5&icon_color=00FF9C&border_color=16242E" />
-</a>
+### [`▸ AUDIT CHAIN`](https://github.com/subtilizer-01/audit-chain) &nbsp;&nbsp;&nbsp; [`▸ DAILY MYSTERY`](https://github.com/subtilizer-01/daily-mystery)
+
+![](https://img.shields.io/badge/C++-00E5FF?style=flat-square&labelColor=0B0E11)
+![](https://img.shields.io/badge/Qt-00FF9C?style=flat-square&labelColor=0B0E11)
+![](https://img.shields.io/badge/SHA--256-00E5FF?style=flat-square&labelColor=0B0E11)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/TypeScript-00E5FF?style=flat-square&labelColor=0B0E11)
+![](https://img.shields.io/badge/React-00FF9C?style=flat-square&labelColor=0B0E11)
+![](https://img.shields.io/badge/Redis-00E5FF?style=flat-square&labelColor=0B0E11)
 
 </div>
 
@@ -68,12 +71,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subtilizer-01&show_icons=true&hide_border=true&bg_color=0B0E11&title_color=00E5FF&text_color=8AA5B5&icon_color=00FF9C&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subtilizer-01&layout=compact&hide_border=true&bg_color=0B0E11&title_color=00E5FF&text_color=8AA5B5" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=subtilizer-01&show_icons=true&hide_border=true&bg_color=0B0E11&title_color=00E5FF&text_color=8AA5B5&icon_color=00FF9C&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subtilizer-01&layout=compact&hide_border=true&bg_color=0B0E11&title_color=00E5FF&text_color=8AA5B5" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subtilizer-01&hide_border=true&background=0B0E11&stroke=16242E&ring=00E5FF&fire=00FF9C&currStreakLabel=00E5FF&sideLabels=8AA5B5&dates=8AA5B5&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com/?user=subtilizer-01&hide_border=true&background=0B0E11&stroke=16242E&ring=00E5FF&fire=00FF9C&currStreakLabel=00E5FF&sideLabels=8AA5B5&dates=8AA5B5&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
@@ -89,7 +92,7 @@
 
 <div align="center">
 
-<a href="(https://www.linkedin.com/in/muhammad-ali-hassan-b29482377?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/muhammad-ali-hassan-b29482377?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LINKEDIN-0B0E11?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 <a href="mailto:engralihassan07@gmail.com">
